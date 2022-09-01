@@ -3,3 +3,5 @@ Esta es la página del curso de Git
 Argel Carrasco Oliva
 
 Nació en Las Tunas, Cuba
+
+Hoy hablaremos de su vida
