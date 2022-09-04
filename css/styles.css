@@ -5,6 +5,7 @@
 }
 
 body {
+    background: #1e1f24;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -24,21 +25,27 @@ footer {
 
 header {
     padding: 0 10px;
+    color: white;
 }
 
 main .container {
     margin: 0 10px;
     padding: 10px;
     border: 1px solid #33a;
+    background: white;
 }
 
 header .cabecera {
-    background-color: #33a;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, alpha);
-    color: white;
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em;
+}
+
+header .cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
 }
 
 header .cabecera span {
